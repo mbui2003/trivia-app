@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_durant">Kevin Durant currently plays for the Phoenix Suns.</string>
+    <string name="question_curry">Stephen Curry has never won a Finals MVP.</string>
+    <string name="question_lebron">LeBron James has won four NBA championships.</string>
+    <string name="question_kobe">Kobe Bryant is the NBA\'s all-time leading scorer.</string>
+    <string name="question_jordan">Michael Jordan has played for the Washington Wizards.</string>
+    <string name="question_rose">Derrick Rose has won an NBA regular season MVP.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
